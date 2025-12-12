@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+--- 
+Write minimal, short and most direct code possible:
+    - Avoid using functions, classes, etc unless otherwise specified
+    - Do not use unnecessary variables, checks, try/except, etc unless crucial for functionality 
+        - example 1: Do not use variables for file names, use direct file names in the code like in a to_csv function call
+        - example 2: Do not add extra defensive checks or try/catch blocks
+    - Minimal comments and empty lines only for major sections
