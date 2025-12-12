@@ -1,6 +1,6 @@
 ---
 alwaysApply: true
---- 
+---
 Write minimal, short and most direct code possible:
     - Avoid using functions, classes, etc unless otherwise specified
     - Do not use unnecessary variables, checks, try/except, etc unless crucial for functionality 
