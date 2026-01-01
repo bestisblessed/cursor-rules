@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Source rules
-SOURCE="$HOME/Code/cursor/.cursor/rules"
+SOURCE="$HOME/Code/cursor-rules/.cursor/rules"
 
 # Copy to all directories in ~/Code 
 for project in "$HOME/Code"/*; do 
