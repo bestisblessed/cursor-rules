@@ -1,9 +1,0 @@
----
-alwaysApply: true
----
-Validate all changes by using either the Cursor Browser or Playwright MCP
-    - Navigate and take screenshots
-    - Check console + network
-    - Run tests
-
-If verification fails or the result doesn’t match the request then replan and fix the issue until it is complete.
