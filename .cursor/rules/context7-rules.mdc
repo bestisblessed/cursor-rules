@@ -1,10 +1,10 @@
 ---
 description: External API & library documentation, code generation, setup or configuration steps
-alwaysApply: false
+alwaysApply: true
 ---
-# Overview
-
 Always use Context7 MCP when I need library/API documentation, code generation, setup or configuration steps without me having to explicitly ask.
 - Use library IDs (e.g., `use library /supabase/supabase`) when I explicitly mention a specific library. Otherwise, let Context7 automatically resolve library names. 
 - Context7 automatically matches version-specific documentation when I mention versions (e.g., "Next.js 14").
 - If no version provided always use the latest version available in the documentation.
+
+NEVER GUESS.

@@ -1,6 +1,0 @@
----
-alwaysApply: true
----
-For any code, commands, questions, etc that use an external API: consult the official, most recent API docs first and cite the docs link for every API-related action (endpoints, params, auth, SDK usage). 
-
-NEVER GUESS.
