@@ -1,5 +1,4 @@
 ---
-description: Data analysis and dataset operations
 alwaysApply: true
 ---
 For any work or questions that involves datasets such as csv files, json, etc use the mcp-server-ds MCP for the operations

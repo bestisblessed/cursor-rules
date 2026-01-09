@@ -1,5 +1,4 @@
 ---
-description: Verification and testing for website / frontend / UI changes
 alwaysApply: true
 ---
 Validate all changes by using either the Cursor Browser or Playwright MCP

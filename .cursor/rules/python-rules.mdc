@@ -1,5 +1,4 @@
 ---
-description: Python code style and minimalism requirements
 alwaysApply: true
 ---
 Write minimal, short and most direct code possible:
